@@ -1,0 +1,50 @@
+
+font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand img{
+
+width: 198.07px;
+height: 59px;
+left: 212px;
+top: 30px;
+
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.sign-in {
+    background: #21B573;
+    border-radius: 33px;
+}
+
+.red-pera {
+    color: #FD511A;
+    font-weight: 500;
+}
+
+.detail-para h1 {
+    font-weight: 900;
+}
+
+.pink {
+    color: #21B573;
+}
+
+.blue-pera {
+    color: #6C6B6B;
+}
+
+button {
+    align-items: center;
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    padding: 12px 36px;
+    background: #21B573;
+    border-radius: 28px ;
+    color : white ; 
+}
