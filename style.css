@@ -135,3 +135,40 @@ button {
 .testimony-det {
     padding: 50px 200px;
 }
+
+.bg-blue {
+    background-color: #282531;
+    height: 300px;
+}
+
+.content {
+    font-weight: 500;
+    color: #FFFFFF;
+    padding: 20px;
+    
+}
+
+.content-all{
+    color: #FFFFFF ;
+    padding-left: 20px;
+}
+
+.last {
+    padding-left: 60px;
+}
+
+.ending {
+
+    color: white;
+}
+
+
+.bg-end {
+
+    margin-top: 90px;
+    background-color: #282531;
+    color: aqua;
+
+    font-weight: 100;
+
+}
