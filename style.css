@@ -3,6 +3,10 @@ font {
     font-family: 'Poppins', sans-serif;
 }
 
+.det-bag {
+    background-color: #F0FFF0;
+}
+
 .navbar-brand img{
 
 width: 198.07px;
@@ -47,4 +51,87 @@ button {
     background: #21B573;
     border-radius: 28px ;
     color : white ; 
+}
+
+.category-item img {
+        
+        width: 66px;
+        height: 85px;
+        left: 231px;
+        top: 672px;
+}
+
+.category-item h6 {
+    font-weight: 700;
+}
+
+.category-item p {
+    color: #585859;
+    font-weight: 400;
+}
+
+.card-item {
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+
+
+}
+
+.card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: none;
+    width: 260px;
+    height: 240px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.card-footer img {
+    width: 24px;
+     height: 24px;
+}
+
+.card-title{
+    font-weight: 800;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-text a {
+    text-decoration: none;
+    color: #6C6B6B;
+    text-align: center;
+}
+
+.crs-button {
+    margin-left: 25px;
+    margin-top: 20px;
+    
+}
+
+.online-courses {
+    margin-bottom: 100px;
+}
+
+.online-text {
+    font-weight: 700;
+}
+
+.testimony-text {
+    font-weight: 700;
+}
+
+.testimony-det h5 img {
+    width: 250px;
+    height: 160px;
+}
+
+.testimony-det {
+    padding: 50px 200px;
 }
